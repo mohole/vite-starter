@@ -1,36 +1,11 @@
 $accent: #0099ee;
 $white: #fff;
-$gray: rgb(248, 249, 250);
-
-main {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
-.container {
-  width: 70%;
-  margin: 50px auto;
-}
-
-hgroup {
-  padding: 1.5rem !important;
-  margin-bottom: 1.5rem !important;        
-}
 
 .bg-light {
-  background-color: $gray;
   transition: background-color 0.4s ease;
 
-  &.bg-light:hover {
+  &:hover {
     background-color: $accent !important;
     color: $white;
   }
-}
-
-
-p {
-  line-height: 1.5rem;
 }

@@ -13,5 +13,8 @@
     "gh-pages": "^4.0.0",
     "sass": "^1.52.2",
     "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
   }
 }
