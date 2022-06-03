@@ -41,7 +41,7 @@ There are a few different templates available in various branches, the default t
 Template with SASS:
 
 ```bash
-npx degit mohole/vite-starter#scss
+npx degit mohole/vite-starter#sass
 ```
 
 Template with SASS & Bootstrap v5:
